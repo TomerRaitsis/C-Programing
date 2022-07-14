@@ -1,2 +1,2 @@
 # Basic C-Programing
-My first experience with programing with C in college
+My first experience with programing in C in college
